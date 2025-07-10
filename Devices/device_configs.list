@@ -1,0 +1,44 @@
+### DEVICE: hg680p
+CONFIG_TARGET_meson=y
+CONFIG_TARGET_meson_gxl=y
+CONFIG_TARGET_meson_gxl_DEVICE_hg680p=y
+
+### DEVICE: x86_64
+CONFIG_TARGET_x86=y
+CONFIG_TARGET_x86_64=y
+CONFIG_TARGET_x86_64_DEVICE_generic=y
+
+### DEVICE: b860h_v1
+CONFIG_TARGET_meson=y
+CONFIG_TARGET_meson_gxl=y
+CONFIG_TARGET_meson_gxl_DEVICE_phicomm_n1=y
+
+### DEVICE: b860h_v2
+CONFIG_TARGET_meson=y
+CONFIG_TARGET_meson_gxl=y
+CONFIG_TARGET_meson_gxl_DEVICE_phicomm_n1=y
+
+### DEVICE: b860h_v5
+CONFIG_TARGET_meson=y
+CONFIG_TARGET_meson_gxl=y
+CONFIG_TARGET_meson_gxl_DEVICE_phicomm_n1=y
+
+### DEVICE: opiz3
+CONFIG_TARGET_sunxi=y
+CONFIG_TARGET_sunxi_cortexa7=y
+CONFIG_TARGET_sunxi_cortexa7_DEVICE_orangepi_zero2=y
+
+### DEVICE: rpi3
+CONFIG_TARGET_bcm27xx=y
+CONFIG_TARGET_bcm27xx_bcm2710=y
+CONFIG_TARGET_bcm27xx_bcm2710_DEVICE_rpi-3=y
+
+### DEVICE: rpi4
+CONFIG_TARGET_bcm27xx=y
+CONFIG_TARGET_bcm27xx_bcm2711=y
+CONFIG_TARGET_bcm27xx_bcm2711_DEVICE_rpi-4=y
+
+### DEVICE: rpi5
+CONFIG_TARGET_bcm27xx=y
+CONFIG_TARGET_bcm27xx_bcm2712=y
+CONFIG_TARGET_bcm27xx_bcm2712_DEVICE_rpi-5=y
